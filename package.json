@@ -1,0 +1,20 @@
+{
+  "name": "examen-leemans-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliManav8570/Examen-Leemans.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliManav8570/Examen-Leemans/issues"
+  },
+  "homepage": "https://github.com/AliManav8570/Examen-Leemans#readme"
+}
